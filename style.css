@@ -15,7 +15,8 @@ h1 {
 }
 
 hr {
-	color: #F05F44;
+	color: #FF4900;
+	height: 2px;
 	border-width: 3px;
 	max-width: 65px;
 }
